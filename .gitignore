@@ -1,5 +1,5 @@
 out.pdf
-
+.DS_Store
 # Created by https://www.gitignore.io/api/vim,tex,visualstudiocode
 
 ### TeX ###

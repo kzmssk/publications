@@ -1,5 +1,7 @@
 # Jornal Papers
 
+* __Kazuma Sasaki__, and Tetsuya Ogata: Adaptive Drawing Behavior by Visuomotor Learning Using Recurrent Neural Networks, IEEE Transactions on Cognitive and Developmental Systems, Sept. 2018. DOI: 10.1109/TCDS.2018.2868160
+
 * __Kazuma Sasaki__, Kuniaki Noda, and Tetsuya Ogata: Visual Motor Integration of Robot’s Drawing Behavior using Recurrent Neural Network, Robotics and Autonomous Systems, Vol.86, pp. 184-195, Dec. 2016. DOI: 10.1016/j.robot.2016.08.022
 
 * Pin-Chu Yang, __Kazuma Sasaki__, Kanata Suzuki, Kei Kase, Shigeki Sugano, and Tetsuya Ogata: Repeatable Folding Task by Humanoid Robot Worker using Deep Learning, IEEE Robotics and Automation Letters (RA-L), Vol.2, No.2, pp. 397-403, Nov. 2016. DOI: 10.1109/LRA.2016.2633383
@@ -9,6 +11,8 @@
 * __Kazuma Sasaki__, Madoka Yamakawa, Kana Sekiguchi, and Tetsuya Ogata, “Classification of Photo and Sketch Images using Convolutional Neural Networks,” In Artificial Neural Networks and Machine Learning -- ICANN 2016, Lecture Notes in Computer Science (LNCS), (Proceedings of the 25th International Conference on Artificial Neural Networks (ICANN 2016), Barcelona, Spain, September 2016)
 
 # International Conferences
+
+* __Kazuma Sasaki__ and Tetsuya Ogata: End-to-End Visuomotor Learning of Drawing Sequences using Recurrent Neural Networks, Proceedings of The 2018 International Joint Conference on Neural Networks (IJCNN 2018), accepted, Rio, Brazil, Jul 8, 2018 – Jul 13, 2018.
 
 * __Kazuma Sasaki__, Hadi Tjandra, Kuniaki Noda, Kuniyuki Takahashi, and Tetsuya Ogata: Neural Network based Model for Visual-motor Integration Learning of Robot’s Drawing Behavior: Association of a Drawing Motion from a Drawn Image, Proceedings of 2015 IEEE/RAS International Conference on Intelligent Robots and Systems (IROS 2015), Accepted, (acceptance rate 46\%), Hamburg, Germany, Sept. 28- Oct. 2, 2015.
 
